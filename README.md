@@ -1,6 +1,6 @@
 ## Summary
-Contains a route planner. It was my submission of the final project for the intro course of the Udacity C++ Nanodegree. Uses OpenStreetMap data and a simple A* search implementation. As heuristic value euclidean distance is used.
-The assigment can be found [here](https://github.com/udacity/CppND-Route-Planning-Project)
+Contains a route planner, made in the final project of the intro course of the Udacity C++ Nanodegree. Uses OpenStreetMap data and a simple A* search implementation. As heuristic value euclidean distance is used.
+The project instructions can be found [here](https://github.com/udacity/CppND-Route-Planning-Project)
 
 ## Dependencies, building and running
 * IO2D is needed, installation instructions be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md#cairoxlib-on-linux)
